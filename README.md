@@ -17,6 +17,8 @@ and each time the device push a new data the app will notify about it, the app A
 <h2 align="left">Tools & Technloges Used in The App : </h2>
 
 -- Android Ble SDK : To Establish a ble connection and connect , disconnect , pair , and notify about any new data , send data
+<br></br>
+-- MPAndroidChart Lib To Draw Charts , link of lib 🔗 : https://github.com/PhilJay/MPAndroidChart
 
 <h1 align="center">App Screenshots : </h1>
 
@@ -31,6 +33,13 @@ and each time the device push a new data the app will notify about it, the app A
   <img src="https://github.com/Abdelrahman-SW/Hm10-Ble-App/assets/171629145/8e595025-ba23-45e8-888a-be13f3a0cb88" width="360" height="640">
 </p>
 <br></br>
+
+<br></br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f0bdb608-b7e9-48fe-a02a-05614b341bb4" width="360" height="640">
+</p>
+<br></br>
+
 
 <h2 align="left">Conclusion</h2>
 This App is Considred As A General Ble Connection App So You can Customize The App To Read/Send Data From/To Any Device That Support Ble
